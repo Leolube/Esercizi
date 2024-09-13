@@ -1,0 +1,14 @@
+C:\Users\Utente\source\repos\Es01_03GestioneEccezioni\Es01_03GestioneEccezioni\obj\Debug\net8.0\Es01_03GestioneEccezioni.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Utente\source\repos\Es01_03GestioneEccezioni\Es01_03GestioneEccezioni\obj\Debug\net8.0\Es01_03GestioneEccezioni.AssemblyInfoInputs.cache
+C:\Users\Utente\source\repos\Es01_03GestioneEccezioni\Es01_03GestioneEccezioni\obj\Debug\net8.0\Es01_03GestioneEccezioni.AssemblyInfo.cs
+C:\Users\Utente\source\repos\Es01_03GestioneEccezioni\Es01_03GestioneEccezioni\obj\Debug\net8.0\Es01_03GestioneEccezioni.csproj.CoreCompileInputs.cache
+C:\Users\Utente\source\repos\Es01_03GestioneEccezioni\Es01_03GestioneEccezioni\bin\Debug\net8.0\Es01_03GestioneEccezioni.exe
+C:\Users\Utente\source\repos\Es01_03GestioneEccezioni\Es01_03GestioneEccezioni\bin\Debug\net8.0\Es01_03GestioneEccezioni.deps.json
+C:\Users\Utente\source\repos\Es01_03GestioneEccezioni\Es01_03GestioneEccezioni\bin\Debug\net8.0\Es01_03GestioneEccezioni.runtimeconfig.json
+C:\Users\Utente\source\repos\Es01_03GestioneEccezioni\Es01_03GestioneEccezioni\bin\Debug\net8.0\Es01_03GestioneEccezioni.dll
+C:\Users\Utente\source\repos\Es01_03GestioneEccezioni\Es01_03GestioneEccezioni\bin\Debug\net8.0\Es01_03GestioneEccezioni.pdb
+C:\Users\Utente\source\repos\Es01_03GestioneEccezioni\Es01_03GestioneEccezioni\obj\Debug\net8.0\Es01_03GestioneEccezioni.dll
+C:\Users\Utente\source\repos\Es01_03GestioneEccezioni\Es01_03GestioneEccezioni\obj\Debug\net8.0\refint\Es01_03GestioneEccezioni.dll
+C:\Users\Utente\source\repos\Es01_03GestioneEccezioni\Es01_03GestioneEccezioni\obj\Debug\net8.0\Es01_03GestioneEccezioni.pdb
+C:\Users\Utente\source\repos\Es01_03GestioneEccezioni\Es01_03GestioneEccezioni\obj\Debug\net8.0\Es01_03GestioneEccezioni.genruntimeconfig.cache
+C:\Users\Utente\source\repos\Es01_03GestioneEccezioni\Es01_03GestioneEccezioni\obj\Debug\net8.0\ref\Es01_03GestioneEccezioni.dll
